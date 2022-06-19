@@ -1,6 +1,6 @@
 # Medicare-Project-using-Pyspark
-- PredictIing the Average Medicare Standardized Payment Amount for the medicare service.
-Medicare is the federal government plan in the U.S. for paying certain hospital and medical expenses for elderly persons qualifying under the plan. It is available for people age 65 or older, younger people with disabilities and people with End Stage Renal Disease (permanent kidney failure requiring dialysis or transplant). Medicare has two parts, Part A (Hospital Insurance) and Part B (Medicare Insurance). You are eligible for premium-free Part A if you are age 65 or older and you or your spouse worked and paid Medicare taxes for at least 10 years.
+- Predicting the Average Medicare Standardized Payment Amount for the medicare service.
+- Medicare is the federal government plan in the U.S. for paying certain hospital and medical expenses for elderly persons qualifying under the plan. It is available for people age 65 or older, younger people with disabilities and people with End Stage Renal Disease (permanent kidney failure requiring dialysis or transplant). Medicare has two parts, Part A (Hospital Insurance) and Part B (Medicare Insurance). You are eligible for premium-free Part A if you are age 65 or older and you or your spouse worked and paid Medicare taxes for at least 10 years.
 Medicare Physician & Other Practitioners - by Geography and Service Data Dictionary :
 1) Rndrng_Prvdr_Geo_Lvl :
 Variable Name : Geography Level
